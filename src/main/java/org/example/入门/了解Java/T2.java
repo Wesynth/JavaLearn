@@ -1,4 +1,4 @@
-package org.example.day01;
+package org.example.入门.了解Java;
 
 public class T2 {
     public static void main(String[] args) {
